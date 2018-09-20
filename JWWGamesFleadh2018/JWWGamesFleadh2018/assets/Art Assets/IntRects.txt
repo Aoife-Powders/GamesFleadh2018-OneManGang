@@ -1,0 +1,12 @@
+Player WAlk
+width:285 
+height 508
+
+Player Jump
+285,584
+
+Player Idle
+187, 510
+
+Enemy Walk
+750, 550
